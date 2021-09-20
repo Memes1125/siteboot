@@ -1,0 +1,40 @@
+.ms{
+    margin-left: 850px;
+}
+.bg{
+    background-image: url("../Ghost/images/bg.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-1{
+    width: 1349px;
+    height: 522px;
+}
+
+.card-1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.t{
+    text-align: left;
+}
+.txt{
+    color: rgba(90,54,41,1);
+    font-size: 44px;
+    text-align: center;
+    font-family: "Southbank LT";
+    font-style: normal;
+    font-weight: normal;
+    overflow: visible;
+    position: absolute;
+    text-shadow: #f13a0b 0 0 2px;
+}
+.x{
+    overflow-x: hidden;
+}
