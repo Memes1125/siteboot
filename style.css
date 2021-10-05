@@ -2,12 +2,12 @@
     margin-left: 850px;
 }
 .bg{
-    background-image: url("../Ghost/images/bg.jpg") ;
+    background-image: url("/images/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .bg-map{
-    background-image: url("../Ghost/images/raznoe-globusy--karty-materiki-mir-zemly-1363591_auto_x2.jpg") ;
+    background-image: url("/images/raznoe-globusy--karty-materiki-mir-zemly-1363591_auto_x2.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
 

@@ -1,56 +1,14 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <title>Document</title>
-</head>
-<body class="bg-map x height">
- <div class="container-fluid">
-     <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-dark bg-dark">
-         <div class="container-fluid">
-             <a class="navbar-brand" href="#">
-                 <img src="..." alt="" width="30" height="24" class="d-inline-block align-text-top">
-             </a>
-             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                 <span class="navbar-toggler-icon"></span>
-             </button>
-             <div class="collapse navbar-collapse ms" id="navbarNavDropdown">
-                 <ul class="navbar-nav ps-5">
-                     <li class="nav-item">
-                         <a class="nav-link" href="#">Главная</a>
-                     </li>
-                     <li class="nav-item">
-                         <a class="nav-link ps-5" href="C:/Ghost/map.html">Карта</a>
-                     </li>
-                     <li class="nav-item dropdown projects">
-                         <a class="nav-link dropdown-toggle ps-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                             Соц. Сети Димы
-                         </a>
-                         <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink">
-                             <li><a class="dropdown-item" href="#">Ютуб</a></li>
-                             <li><a class="dropdown-item" href="#">Инстаграм</a></li>
-                             <li><a class="dropdown-item" href="#">Почта для рекламы</a></li>
-                         </ul>
-                     </li>
-                 </ul>
-             </div>
-         </div>
-     </nav>
+<body>
      <div class="img-mark-1" id="navbarNavDropdown-2">
          <ul class="ul">
             <li class="nav-item dropdown projects" style="min-width: 20px">
                 <a href="#" id="navbarDropdownMenuLink-2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                    <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                 </a>
                 <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-2">
                     <li>
                         <a class="dropdown-item" href="#">
-                            <img src="images/3.png" alt="...">
+                            <img src="/images/3.png" alt="...">
                         </a>
                     </li>
                 </ul>
@@ -61,12 +19,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 20px">
                  <a href="#" id="navbarDropdownMenuLink-3" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-3">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/11.png" alt="...">
+                             <img src="/images/11.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -77,12 +35,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 20px">
                  <a href="#" id="navbarDropdownMenuLink-4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-4">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/4.png" alt="...">
+                             <img src="/images/4.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -93,12 +51,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 20px">
                  <a href="#" id="navbarDropdownMenuLink-5" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-5">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/5.png" alt="...">
+                             <img src="/images/5.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -109,12 +67,12 @@
            <ul class="ul">
                <li class="nav-item dropdown projects" style="min-width: 20px">
                    <a href="#" id="navbarDropdownMenuLink-6" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                       <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                       <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                    </a>
                    <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-6">
                        <li>
                            <a class="dropdown-item" href="#">
-                               <img src="images/6.png" alt="...">
+                               <img src="/images/6.png" alt="...">
                            </a>
                        </li>
                    </ul>
@@ -125,12 +83,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 13px">
                  <a href="#" id="navbarDropdownMenuLink-7" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 20px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 20px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-7">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/7.png" alt="...">
+                             <img src="/images/7.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -141,12 +99,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 13px">
                  <a href="#" id="navbarDropdownMenuLink-8" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 20px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 20px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-8">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/8.png" alt="...">
+                             <img src="/images/8.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -157,12 +115,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 13px">
                  <a href="#" id="navbarDropdownMenuLink-9" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 20px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 20px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-9">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/9.png" alt="...">
+                             <img src="/images/9.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -173,12 +131,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 13px">
                  <a href="#" id="navbarDropdownMenuLink-10" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 20px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 20px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-10">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/10.png" alt="...">
+                             <img src="/images/10.png" alt="...">
                          </a>
                      </li>
                  </ul>
@@ -189,12 +147,12 @@
          <ul class="ul">
              <li class="nav-item dropdown projects" style="min-width: 20px">
                  <a href="#" id="navbarDropdownMenuLink-11" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                     <img src="images/mark-map.png" alt=""  style="max-height: 30px">
+                     <img src="/images/mark-map.png" alt="" style="max-height: 30px">
                  </a>
                  <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink-11">
                      <li>
                          <a class="dropdown-item" href="#">
-                             <img src="images/2.png" alt="...">
+                             <img src="/images/2.png" alt="...">
                          </a>
                      </li>
                  </ul>
