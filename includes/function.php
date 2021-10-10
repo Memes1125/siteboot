@@ -7,7 +7,8 @@ function main(){
         switch ($page){
             case 'about': include ('content/pages/about.md'); break;
             case 'calc': include ('content/pages/calc.php'); break;
-            case 'map': include ('content/pages/map.php'); break;
+            case 'map': include('content/pages/map.html'); break;
+            case 'main': include ('content/pages/main.php'); break;
 
             default: include ('content/pages/404.md');
         }

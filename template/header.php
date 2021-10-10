@@ -26,17 +26,20 @@
             <div class="collapse navbar-collapse ms" id="navbarNavDropdown">
                 <ul class="navbar-nav ps-5">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php?=calc">Главная</a>
+                        <a class="nav-link" href="index.php?page=main">Главная</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link ps-5" href="index.php?=map">Карта</a>
+                        <a class="nav-link" href="index.php?page=calc">Калькулятор</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link ps-5" href="index.php?page=map">Карта</a>
                     </li>
                     <li class="nav-item dropdown projects">
-                        <a class="nav-link dropdown-toggle ps-5" href="../../template/calc.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle ps-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Соц. Сети Димы
                         </a>
                         <ul class="dropdown-menu dropdown-content" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="../../template/calc.php">Калькулятор</a></li>
+                            <li><a class="dropdown-item" href="#">Калькулятор</a></li>
                             <li><a class="dropdown-item" href="#">Инстаграм</a></li>
                             <li><a class="dropdown-item" href="#">Почта для рекламы</a></li>
                         </ul>
